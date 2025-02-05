@@ -1,11 +1,6 @@
 # mfcDuDownloadCodeGenerator
-ÓÃÓÚ°Ù¶ÈÍøÅÌµÄ±ê×¼ÌáÈ¡ÂëÉú³ÉÆ÷¡£
+ç”¨äºç™¾åº¦ç½‘ç›˜çš„æ ‡å‡†æå–ç ç”Ÿæˆå™¨ã€‚
 
 ![](https://cdn.jsdelivr.net/gh/JixunMoe/mfcDuDownloadCodeGenerator/imgs/sshot-stdcode.png)
 
 ---
-
-¹ØÓÚÕâ¸öÈí¼ş£¬Çë²ÎÔÄ£º
-
-* https://jixun.moe/post/du-code-gen
-* https://blog.jixun.moe/du-code-gen
